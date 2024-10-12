@@ -1,21 +1,162 @@
  
-- links_category: Elites
-  has_thumbnail: true
-  list: 
-    - name: EvanNotFound's Blog
-      link: https://ohevan.com
-      description: 用香港记者的速度更新文章
-      avatar: https://evan.beee.top/avatar.png
-      thumbnail: https://img1.imgtp.com/2023/06/19/Jegvz84P.png # has_thumbnail 为 true 时才需要
+# - links_category: Elites
+#   has_thumbnail: true
+#   list: 
+#     - name: EvanNotFound's Blog
+#       link: https://ohevan.com
+#       description: 用香港记者的速度更新文章
+#       avatar: https://evan.beee.top/avatar.png
+#       thumbnail: https://img1.imgtp.com/2023/06/19/Jegvz84P.png # has_thumbnail 为 true 时才需要
  
-- links_category: Normal
+- links_category: 实用网站
   has_thumbnail: false
   list: 
-    - name: Example Site
-      link: https://example.com
-      description: Example Site Description
-      avatar: https://www.youtube.com/watch?v=dQw4w9WgXcQ
-    - name: Example Site 2
-      link: https://example.com
-      description: Example Site Description
-      avatar: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+    - name: Github
+      link: https://github.com/
+      description: A platform for hosting and reviewing code, managing projects, and collaborating on software.
+      avatar: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+
+    - name: Wikipedia
+      link: https://www.wikipedia.org/
+      description: A free online encyclopedia that anyone can edit.
+      avatar: https://upload.wikimedia.org/wikipedia/commons/6/63/Wikipedia-logo.png
+
+    - name: Stack Overflow
+      link: https://stackoverflow.com/
+      description: A community-driven question-and-answer site for programmers.
+      avatar: https://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-icon.svg
+
+    - name: Google
+      link: https://www.google.com/
+      description: The world's most popular search engine.
+      avatar: https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg
+
+    - name: Reddit
+      link: https://www.reddit.com/
+      description: A social news aggregation, web content rating, and discussion website.
+      avatar: https://www.redditinc.com/assets/images/site/reddit-logo.png
+
+    - name: YouTube
+      link: https://www.youtube.com/
+      description: A video-sharing platform where users can upload, view, and share videos.
+      avatar: https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg
+
+    - name: Dropbox
+      link: https://www.dropbox.com/
+      description: A cloud-based file storage service.
+      avatar: https://upload.wikimedia.org/wikipedia/commons/7/71/Dropbox_logo.png
+
+    - name: Notion
+      link: https://www.notion.so/
+      description: A productivity tool that blends notes, tasks, databases, and wikis in one app.
+      avatar: https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg
+
+    - name: Figma
+      link: https://www.figma.com/
+      description: A collaborative web-based interface design tool.
+      avatar: https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg
+
+    - name: Canva
+      link: https://www.canva.com/
+      description: A graphic design platform to create social media graphics, presentations, posters, and other visual content.
+      avatar: https://upload.wikimedia.org/wikipedia/commons/7/71/Canva_logo.png
+
+    - name: Evernote
+      link: https://evernote.com/
+      description: A note-taking app designed to keep your information organized.
+      avatar: https://upload.wikimedia.org/wikipedia/commons/0/08/Evernote_logo.png
+
+    - name: Coursera
+      link: https://www.coursera.org/
+      description: An online learning platform offering courses, certificates, and degrees.
+      avatar: https://upload.wikimedia.org/wikipedia/commons/7/76/Coursera_Logo.svg
+
+    - name: Amazon
+      link: https://www.amazon.com/
+      description: The world's largest online retailer offering a wide variety of products.
+      avatar: https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg
+
+    - name: Microsoft
+      link: https://www.microsoft.com/
+      description: A global technology company providing software, services, devices, and solutions.
+      avatar: https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg
+    
+    - name: CSDN
+      link: https://www.csdn.net/
+      description: 中国最大的IT社区和服务平台，提供学习资料、博客、技术论坛等。
+      avatar: https://csdnimg.cn/public/favicon.ico
+
+    - name: 慕课网
+      link: https://www.imooc.com/
+      description: 在线IT技能学习平台，提供编程、前端、后端等课程。
+      avatar: https://www.imooc.com/static/img/common/touch-icon-ipad.png
+
+    - name: 中国知网
+      link: https://www.cnki.net/
+      description: 中国重要的学术论文和期刊数据库，提供大量科研文献资源。
+      avatar: https://www.cnki.net/favicon.ico
+
+    - name: 掘金
+      link: https://juejin.cn/
+      description: 程序员学习和分享的社区，提供技术文章、分享和职业发展建议。
+      avatar: https://lf3-cdn-tos.bytescm.com/obj/static/juejin_web/img/favicon.a7e5840.png
+
+    - name: 简书
+      link: https://www.jianshu.com/
+      description: 一个分享创作的社区，涵盖技术、生活、文化等多个领域。
+      avatar: https://www.jianshu.com/favicon.ico
+
+    - name: 开源中国
+      link: https://www.oschina.net/
+      description: 中国领先的开源技术社区，专注于开源软件和技术交流。
+      avatar: https://static.oschina.net/new-osc/img/favicon.ico
+
+    - name: 腾讯课堂
+      link: https://ke.qq.com/
+      description: 腾讯推出的在线学习平台，提供丰富的编程、设计等课程。
+      avatar: https://ke.qq.com/favicon.ico
+
+    - name: 网易云课堂
+      link: https://study.163.com/
+      description: 网易旗下的在线学习平台，提供广泛的技术和技能课程。
+      avatar: https://edu-image.nosdn.127.net/0FD54B19BDE00DBD9085B6E10A8A36D7.png
+
+    - name: 菜鸟教程
+      link: https://www.runoob.com/
+      description: 提供编程和开发技术的免费教程，包括HTML、JavaScript、Python等。
+      avatar: https://www.runoob.com/favicon.ico
+
+    - name: 牛客网
+      link: https://www.nowcoder.com/
+      description: IT技术人员的求职学习平台，提供面试经验、题库和课程。
+      avatar: https://www.nowcoder.com/favicon.ico
+
+    - name: 清华大学学术资源平台
+      link: https://www.lib.tsinghua.edu.cn/
+      description: 清华大学提供的在线学术资源和数据库访问服务。
+      avatar: https://www.lib.tsinghua.edu.cn/favicon.ico
+
+    - name: 博客园
+      link: https://www.cnblogs.com/
+      description: 一个面向开发者的技术分享博客社区。
+      avatar: https://common.cnblogs.com/favicon.ico
+
+    - name: 阿里云
+      link: https://www.aliyun.com/
+      description: 提供云计算服务、云服务器、数据库等技术解决方案。
+      avatar: https://www.aliyun.com/favicon.ico
+
+    - name: 知乎
+      link: https://www.zhihu.com/
+      description: 社交问答平台，用户可以在上面提出问题、解答他人的问题。
+      avatar: https://static.zhihu.com/heifetz/favicon.ico
+
+    - name: 哔哩哔哩
+      link: https://www.bilibili.com/
+      description: 中国知名的视频分享平台，包含大量的学习、技术类视频。
+      avatar: https://www.bilibili.com/favicon.ico
+
+    - name: 百度学术
+      link: https://xueshu.baidu.com/
+      description: 提供学术论文搜索服务，支持查找期刊、会议等学术资源。
+      avatar: https://xueshu.baidu.com/favicon.ico
